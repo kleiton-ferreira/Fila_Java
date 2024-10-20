@@ -1,2 +1,2 @@
 # Fila_Java
-Exercio de implementação de uma Fila em Java
+Exercício de implementação de uma Fila em Java, utilizando o Eclipse
